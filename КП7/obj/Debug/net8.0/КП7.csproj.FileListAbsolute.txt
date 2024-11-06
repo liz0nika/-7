@@ -1,0 +1,14 @@
+/Users/elizavetaborisenko/Desktop/study 🙇🏻‍♀️/ТРПЗ/КП7/КП7/bin/Debug/net8.0/КП7
+/Users/elizavetaborisenko/Desktop/study 🙇🏻‍♀️/ТРПЗ/КП7/КП7/bin/Debug/net8.0/КП7.deps.json
+/Users/elizavetaborisenko/Desktop/study 🙇🏻‍♀️/ТРПЗ/КП7/КП7/bin/Debug/net8.0/КП7.runtimeconfig.json
+/Users/elizavetaborisenko/Desktop/study 🙇🏻‍♀️/ТРПЗ/КП7/КП7/bin/Debug/net8.0/КП7.dll
+/Users/elizavetaborisenko/Desktop/study 🙇🏻‍♀️/ТРПЗ/КП7/КП7/bin/Debug/net8.0/КП7.pdb
+/Users/elizavetaborisenko/Desktop/study 🙇🏻‍♀️/ТРПЗ/КП7/КП7/obj/Debug/net8.0/КП7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elizavetaborisenko/Desktop/study 🙇🏻‍♀️/ТРПЗ/КП7/КП7/obj/Debug/net8.0/КП7.AssemblyInfoInputs.cache
+/Users/elizavetaborisenko/Desktop/study 🙇🏻‍♀️/ТРПЗ/КП7/КП7/obj/Debug/net8.0/КП7.AssemblyInfo.cs
+/Users/elizavetaborisenko/Desktop/study 🙇🏻‍♀️/ТРПЗ/КП7/КП7/obj/Debug/net8.0/КП7.csproj.CoreCompileInputs.cache
+/Users/elizavetaborisenko/Desktop/study 🙇🏻‍♀️/ТРПЗ/КП7/КП7/obj/Debug/net8.0/КП7.dll
+/Users/elizavetaborisenko/Desktop/study 🙇🏻‍♀️/ТРПЗ/КП7/КП7/obj/Debug/net8.0/refint/КП7.dll
+/Users/elizavetaborisenko/Desktop/study 🙇🏻‍♀️/ТРПЗ/КП7/КП7/obj/Debug/net8.0/КП7.pdb
+/Users/elizavetaborisenko/Desktop/study 🙇🏻‍♀️/ТРПЗ/КП7/КП7/obj/Debug/net8.0/КП7.genruntimeconfig.cache
+/Users/elizavetaborisenko/Desktop/study 🙇🏻‍♀️/ТРПЗ/КП7/КП7/obj/Debug/net8.0/ref/КП7.dll
